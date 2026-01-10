@@ -82,7 +82,7 @@ architect-template/
 
 ### Desktop View
 
-![Desktop Screenshot](img/Screenshot1.png)
+![Desktop Screenshot](Screenshot1.png)
 
 ### Mobile View
 
