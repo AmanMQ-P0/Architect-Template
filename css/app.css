@@ -1,0 +1,53 @@
+/* ========== Navbar ========== */
+nav {
+  letter-spacing: 4px;
+}
+
+nav a:hover {
+  background-color: #95bdbd81;
+}
+
+/* ========== Header ========== */
+header {
+  max-width: 1500px;
+}
+
+/* ========== Page Content ========== */
+main {
+  max-width: 1564px;
+}
+
+/* ========== Project Section ========== */
+section #projects,
+section #about, section #contact {
+  padding-top: 70px;
+}
+
+/* ========== About Section ========== */
+button.btn:hover {
+  background-color: #88cdcdbc;
+}
+
+/* ========== Contact Section ========== */
+form button.btn {
+  background-color: #0c0c0c;
+  color: #ffffff;
+}
+
+form button.btn:hover {
+  background-color: #c7cfd5cb;
+  color: #0c0c0c;
+}
+
+/* ========== Footer ========== */
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: blue;
+}
+
+
+
+
