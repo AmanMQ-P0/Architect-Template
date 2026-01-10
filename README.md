@@ -86,7 +86,7 @@ architect-template/
 
 ### Mobile View
 
-![Mobile Screenshot](img/screenshot-mobile.png)
+![Mobile Screenshot](Screenshot2.png)
 
 ## 🎨 Customization
 
