@@ -133,8 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- GitHub: [Aman MQ_P0](https://github.com/AmanMQ-P0)
 
 ---
 
