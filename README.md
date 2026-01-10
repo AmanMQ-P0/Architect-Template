@@ -4,7 +4,7 @@ A responsive architect website template built as a learning project, inspired by
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://amanmq-p0.github.io/Architect-Template/) (Replace with your GitHub Pages URL after deployment)
+[View Live Demo](https://amanmq-p0.github.io/Architect-Template/)
 
 ## 📋 Features
 
@@ -131,9 +131,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Aman MQ_P0**
 
-- GitHub: [Aman MQ_P0](https://github.com/AmanMQ-P0)
+- GitHub: [AmanMQ-P0](https://github.com/AmanMQ-P0)
 
 ---
 
