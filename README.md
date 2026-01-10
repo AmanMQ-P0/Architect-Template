@@ -4,7 +4,7 @@ A responsive architect website template built as a learning project, inspired by
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/architect-template) (Replace with your GitHub Pages URL after deployment)
+[View Live Demo](https://amanmq-p0.github.io/Architect-Template/) (Replace with your GitHub Pages URL after deployment)
 
 ## 📋 Features
 
@@ -82,7 +82,7 @@ architect-template/
 
 ### Desktop View
 
-![Desktop Screenshot](img/screenshot-desktop.png)
+![Desktop Screenshot](img/Screenshot1.png)
 
 ### Mobile View
 
