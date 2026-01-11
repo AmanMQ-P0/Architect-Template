@@ -4,7 +4,7 @@ Template website arsitek responsif yang dibuat sebagai proyek pembelajaran, teri
 
 ## 🚀 Demo Langsung
 
-[Lihat Demo Langsung](https://your-username.github.io/architect-template) (Ganti dengan URL GitHub Pages Anda setelah deployment)
+[Lihat Demo Langsung](https://amanmq-p0.github.io/Architect-Template/)
 
 ## 📋 Fitur
 
@@ -53,7 +53,7 @@ architect-template/
 1. **Kloning repository**
 
    ```bash
-   git clone https://github.com/your-username/architect-template.git
+   git clone https://github.com/AmanMQ-P0/Architect-Template.git
    ```
 
 2. **Navigasi ke direktori proyek**
@@ -82,11 +82,11 @@ architect-template/
 
 ### Tampilan Desktop
 
-![Screenshot Desktop](img/screenshot-desktop.png)
+![Screenshot Desktop](Screenshot1.png)
 
 ### Tampilan Mobile
 
-![Screenshot Mobile](img/screenshot-mobile.png)
+![Screenshot Mobile](Screenshot2.png)
 
 ## 🎨 Kustomisasi
 
@@ -131,10 +131,9 @@ Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) unt
 
 ## 👤 Penulis
 
-**Nama Anda**
+**Aman MQ_P0**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [LinkedIn Anda](https://linkedin.com/in/your-profile)
+- GitHub: [AmanMQ-P0](https://github.com/AmanMQ-P0)
 
 ---
 
