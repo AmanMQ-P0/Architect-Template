@@ -53,7 +53,7 @@ architect-template/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/AmanMQ-P0/architect-template.git
+   git clone https://github.com/AmanMQ-P0/Architect-Template.git
    ```
 
 2. **Navigate to the project directory**
